@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=abimmgg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abimmgg&theme=tokyonight&hide_border=false)<br/>
 
-
-
-===== Snake Animation =====
 <br clear="both">
 <img src="https://raw.githubusercontent.com/abimmgg/abimmgg/output/snake.svg" alt="Snake animation" />
 
