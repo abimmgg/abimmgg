@@ -12,6 +12,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=abimmgg&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<br clear="both">
 <img src="https://raw.githubusercontent.com/abimmgg/abimmgg/output/snake.svg" alt="Snake animation" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
