@@ -1,3 +1,6 @@
+
+[![](https://visitcount.itsvg.in/api?id=abimmgg&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🏠 Hometown: Tulungagung, Jawa Timur<br>🌱 Currently Learning: Artificial Intelligence (AI) / Machine Learning (ML)<br>💼 Interests: Full Stack Development and AI/ML Engineer
 
@@ -9,9 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abimmgg&theme=tokyonight&hide_border=false)<br/>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=abimmgg&icon=0&color=0)](https://visitcount.itsvg.in)
 
+===== Snake Animation =====
 <br clear="both">
 <img src="https://raw.githubusercontent.com/abimmgg/abimmgg/output/snake.svg" alt="Snake animation" />
 
