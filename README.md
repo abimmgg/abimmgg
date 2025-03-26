@@ -1,5 +1,5 @@
 
-[![](https://visitcount.itsvg.in/api?id=abimmgg&icon=0&color=0)](https://visitcount.itsvg.in)
+[![]([https://visitcount.itsvg.in/api?id=abimmgg&icon=0&color=0](https://profile-counter.glitch.me/abimmgg/count.svg))]
 
 # 💫 About Me:
 🏠 Hometown: Tulungagung, Jawa Timur<br>🌱 Currently Learning: Artificial Intelligence (AI) / Machine Learning (ML)<br>💼 Interests: Full Stack Development and AI/ML Engineer
